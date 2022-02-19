@@ -9,6 +9,11 @@ This framework can help you to quickly build the php CURD api for the small and 
    composer self-update 1.10.15
    ```
 
+## Installation
+```shell
+composer create-project lilashih/simphp blog
+```
+
 ## Features
 - Route
 - Eloquent ORM
